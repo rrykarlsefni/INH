@@ -1,0 +1,213 @@
+{
+  "categories": [
+    {
+      "id": "panelPrivate",
+      "name": "Panel Private",
+      "description": "lihat daftar panel private",
+      "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png",
+      "products": [
+        {
+          "name": "RAM 3",
+          "price": "Rp3.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 4",
+          "price": "Rp4.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 5",
+          "price": "Rp5.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 6",
+          "price": "Rp6.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 7",
+          "price": "Rp7.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 8",
+          "price": "Rp8.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 9",
+          "price": "Rp9.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 10",
+          "price": "Rp10.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "UNLIMITED",
+          "price": "Rp12.000",
+          "isDiscounted": true,
+          "originalPrice": "Rp12.000",
+          "discountedPrice": "Rp7.000",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        }
+      ]
+    },
+    {
+      "id": "panelPublic",
+      "name": "Panel Public",
+      "description": "lihat daftar panel public",
+      "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png",
+      "products": [
+        {
+          "name": "RAM 5",
+          "price": "Rp3.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 6",
+          "price": "Rp4.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 7",
+          "price": "Rp5.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 8",
+          "price": "Rp6.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 9",
+          "price": "Rp7.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "RAM 10",
+          "price": "Rp8.000",
+          "isDiscounted": false,
+          "originalPrice": "Rp3.000",
+          "discountedPrice": "Rp10",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "UNLIMITED",
+          "price": "Rp9.000",
+          "isDiscounted": true,
+          "originalPrice": "Rp9.000",
+          "discountedPrice": "Rp5.000",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        }
+      ]
+    },
+    {
+      "id": "panelAdmin",
+      "name": "Panel Admin",
+      "description": "Lihat daftar panel Administrator",
+      "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png",
+      "products": [
+        {
+          "name": "OWNER PANEL",
+          "price": "Rp3.000",
+          "isDiscounted": true,
+          "originalPrice": "Rp25.000",
+          "discountedPrice": "Rp20.000",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "PT PANEL",
+          "price": "Rp4.000",
+          "isDiscounted": true,
+          "originalPrice": "Rp20.000",
+          "discountedPrice": "Rp15.000",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        },
+        {
+          "name": "ADMIN PANEL",
+          "price": "Rp5.000",
+          "isDiscounted": true,
+          "originalPrice": "Rp15.000",
+          "discountedPrice": "Rp10.000",
+          "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+        }
+      ]
+    },
+    {
+  "id": "Web",
+  "name": "Website",
+  "description": "Lihat daftar website",
+  "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png",
+  "products": [
+    {
+      "name": "Web Payment",
+      "price": "Rp25.000",
+      "isDiscounted": true,
+      "originalPrice": "Rp25.000",
+      "discountedPrice": "Rp15.000",
+      "image": "https://files.catbox.moe/1qase3.jpg"
+    }
+  ]
+},
+{
+  "id": "Jasa",
+  "name": "Jasa",
+  "description": "lihat daftar jasa",
+  "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png",
+  "products": [
+    {
+      "name": "Jasa rename",
+      "price": "Rp15.000",
+      "isDiscounted": true,
+      "originalPrice": "Rp15.000",
+      "discountedPrice": "Rp10.000",
+      "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+    }
+  ]
+}
+
+  ]
+}

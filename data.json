@@ -1,0 +1,30 @@
+{
+  "pembeli": [
+    {
+      "name": "Anton",
+      "phone": "+6281234567890",
+      "purchaseCount": 100,
+      "visible": true
+    },
+    {
+      "name": "sugeng",
+      "phone": "+6281234567891",
+      "purchaseCount": 200,
+      "visible": false
+    }
+  ],
+  "donasi": [
+    {
+      "name": "Anton",
+      "phone": "+6281234567893",
+      "totalDonasi": 10000,
+      "visible": true
+    },
+    {
+      "name": "Sugeng",
+      "phone": "+6281234567894",
+      "totalDonasi": 10000,
+      "visible": true
+    }
+  ]
+}
