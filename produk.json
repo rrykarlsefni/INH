@@ -198,6 +198,14 @@
   "description": "lihat daftar jasa",
   "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png",
   "products": [
+  {
+      "name": "Jasa Jadibot",
+      "price": "Rp9.000",
+      "isDiscounted": true,
+      "originalPrice": "Rp15.000",
+      "discountedPrice": "Rp9.000",
+      "image": "https://raw.githubusercontent.com/rrykarlsefni/DBStorage/master/rrykarlcdn/InouePanel1.png"
+    },
     {
       "name": "Jasa rename",
       "price": "Rp15.000",
